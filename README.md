@@ -1,2 +1,3 @@
-# CompVis-Cut-Detection
+# Computer Vision
 Automated Labels-- Hard cut detection
+
